@@ -8,8 +8,8 @@ However, it should be able to compile it for other platforms as long as it suppo
 - More verbose build instructions will come later.
 
 ## License ##
-- This program is licensed under GPLv3.
-Please take a look at LICENSE.md for full license.
+- This program is licensed under GPLv3. Please take a look at LICENSE.md for full license.
 
 ## Credit ##
 - Made by Team jungbo-slack (spear-root,hotmandu,minary,gunwoo7)
+- jungbo means 'information' in Korean
