@@ -1,11 +1,15 @@
-This is jungbo-slack/problem-program
-Its name isn't decided
+# problem-program #
+The proper name for this project is not decided yet.
 
-made by Jungbo-slack (spear-root,hotmandu,minary,gunwoo7)
+## Building ##
+We do not support building the program for other platform than Windows.
+However, it should be able to compile it for other platforms as long as it supports standard C++ console application.
 
-Thank you, and enjoying our program.
+More verbose build instructions will come later.
 
- /* It isn't made now */
- 
- /* We are making the program now */
+## License ##
+This program is licensed under GPLv3.
+Please take a look at LICENSE.md for full license.
 
+## Credit ##
+Made by Team jungbo-slack (spear-root,hotmandu,minary,gunwoo7)
