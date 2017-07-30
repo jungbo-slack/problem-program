@@ -48,5 +48,4 @@ This program is licensed under GPLv3. Please take a look at LICENSE.md for full 
 ## Credit ##
 Made by Team jungbo-slack (spear-root,hotmandu,minary,gunwoo7)
 
-Note: jungbo means 'information' in Korean
-      The proper name for this project is not decided yet.
+Note: jungbo means 'information' in Korean        The proper name for this project is not decided yet.
